@@ -40,12 +40,6 @@
       "[production]": {
         "db": {
           "kind": "hana-cloud"
-        },
-        "auth": {
-          "kind": "xsuaa"
-        },
-        "approuter": {
-          "kind": "cloudfoundry"
         }
       },
       "db": {
